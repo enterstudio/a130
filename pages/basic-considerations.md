@@ -23,7 +23,7 @@ description: "Basic Considerations"
   
   h. The rigor of information collection design should be consistent with the likely use of the information, and the utility of information should be balanced against the burden imposed on the public and the cost of the collection.
   
-  i. When the Federal Government disseminates information to the public, it must be accompanied with sufficient detail about the collection design and resulting quality parameters (e.g., response rates) for the public to determine the fitness of the information for a given use.
+  i. When the Federal Government disseminates information to the public, it should be accompanied with sufficient detail about the collection design and resulting quality parameters (e.g., response rates) for the public to determine the fitness of the information for a given use.
   
   j. Systematic attention to the management of Federal Government records from creation to disposition is an essential component of sound information resources management that ensures public accountability. Together with records preservation, it protects the Government's historical record and safeguards the legal and financial rights of the Government and the public.
   
