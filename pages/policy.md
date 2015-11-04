@@ -252,7 +252,7 @@ Agencies shall:
   
   b) Avoid establishing, or permitting others to establish on their behalf, exclusive, restricted, or other distribution arrangements that interfere with allowing the agency to disseminate its information on a timely and equitable basis. In certain cases, it may be appropriate to engage in time-limited restrictions or exclusively in cases where the agency, due to resource constraints, would otherwise be unable to provide the information to the public on its own;
   
-  c) Avoid establishing unnecessary restrictions on the reuse, resale, or re-dissemination of Federal information by the public, including charging of fees or royalties, requirements of attribution or registration, and requiring the agreement to a contract in exchange for access to Federal information resources;<sup id="fnr14"><a href="#fn14">14</a></sup> 
+  c) Avoid establishing unnecessary restrictions on the reuse, resale, or re-dissemination of Federal information by the public, including charging of fees or royalties, requirements of attribution or registration, and requiring the agreement to a license or contract in exchange for access to Federal information resources;<sup id="fnr14"><a href="#fn14">14</a></sup> 
   
   d) Recovering only the cost of dissemination if fee and user charges are necessary. They must exclude from calculation the costs associated with original collection and processing of the information. Exceptions to this policy are:
   i. Where statutory requirements are at variance with the policy;
