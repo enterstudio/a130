@@ -242,17 +242,17 @@ Agencies shall:
 
 3) Agencies shall ensure that the public can appropriately discover, and provide feedback about disseminated information and unreleased information by:
 
-  a) Ensuring that data, wherever possible and legally permissible, are released to the public in ways that make the data easy to find, accessible, and usable; and
+  a) Ensuring that data, wherever possible and legally permissible, are released to the public in ways that make the data easy to find through commonly used web search applications, accessible, and usable; and
   
   b) Developing other aids as necessary to assist the public in locating agency information including catalogs and directories, site maps, search functions, and other means.
 
 4) Agencies shall ensure that the public can appropriately use disseminated information by:
 
-  a) Publishing information online in a, machine-readable open format that can be retrieved, downloaded, indexed, and searched by commonly used web search applications and is public, accessible, described, reusable, complete, timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
+  a) Publishing information online in a manner that promotes analysis and reuse, meaning the information resource is public and available for download, accessible, in an appropriate machine-readable open format, described, complete, granular, and timely. This includes providing such information in a format(s) accessible to employees and members of the public with disabilities.<sup id="fnr13"><a href="#fn13">13</a></sup> 
   
   b) Avoid establishing, or permitting others to establish on their behalf, exclusive, restricted, or other distribution arrangements that interfere with allowing the agency to disseminate its information on a timely and equitable basis. In certain cases, it may be appropriate to engage in time-limited restrictions or exclusively in cases where the agency, due to resource constraints, would otherwise be unable to provide the information to the public on its own;
   
-  c) Avoid establishing unnecessary restrictions, including charging of fees or royalties, on the reuse, resale, or re-dissemination of Federal information by the public;<sup id="fnr14"><a href="#fn14">14</a></sup> 
+  c) Avoid establishing unnecessary restrictions on the reuse, resale, or re-dissemination of Federal information by the public, including charging of fees or royalties, requirements of attribution or registration, and requiring the agreement to a contract in exchange for access to Federal information resources;<sup id="fnr14"><a href="#fn14">14</a></sup> 
   
   d) Recovering only the cost of dissemination if fee and user charges are necessary. They must exclude from calculation the costs associated with original collection and processing of the information. Exceptions to this policy are:
   i. Where statutory requirements are at variance with the policy;
