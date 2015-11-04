@@ -212,7 +212,7 @@ Agencies shall:
 
 2) Ensure that records management programs provide adequate and proper documentation of agency activities.
 
-3) Ensure the ability to access, retrieve, and manage records throughout their life cycle regardless of form or medium.
+3) Consider records as an information asset and ensure the ability to access, retrieve, and manage records throughout their life cycle regardless of form or medium in accordance with section (h), Information Management and Access.
 
 4) Establish and obtain the approval of the Archivist of the United States for retention schedules for Federal records in a timely fashion.
 
